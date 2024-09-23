@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">A Java & BukkitAPI Developer</h3>
+<h3 align="center">A Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ripwindows&label=Profile%20views&color=0e75b6&style=flat" alt="ripwindows" /> </p>
 
-- 🔭 I’m currently working on **HavarCoding & DelusionMC Codes**
+- 🔭 I’m currently working on **Havar**
 
 - 🌱 I’m currently learning **JS - HTML - CSS**
 

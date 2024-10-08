@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://discordapp.com/users/539891314528092190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="users/1070092952761798706" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1137844233856880680" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="users/1137844233856880680" height="30" width="40" /></a>
 </p>
 
 <p align="center">
